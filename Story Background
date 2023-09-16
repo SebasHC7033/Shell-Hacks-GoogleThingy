@@ -1,0 +1,4 @@
+tw-story[tags~="Home"] {
+ background-image:url("https://as1.ftcdn.net/v2/jpg/06/11/67/36/1000_F_611673609_1QmW1r9QbudOkmT15ID0HHqLlQFX4dSv.jpg");
+ background-size:cover;
+}
